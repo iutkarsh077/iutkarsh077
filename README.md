@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iutkarsh077" target="blank"><img src="https://img.shields.io/twitter/follow/iutkarsh077?logo=twitter&style=for-the-badge" alt="iutkarsh077" /></a> </p>
 
-- 🔭 I’m currently working on [Social-Media-App]([https://github.com/iutkarsh077/SocialMedia-App](https://github.com/iutkarsh077/Sticky-Chat))
+- 🔭 I’m currently working on [Social-Media-App](https://github.com/iutkarsh077/SocialMedia-App](https://github.com/iutkarsh077/Sticky-Chat)
 
 - 🌱 I’m currently learning **Nodejs and Backend Databases**
 
