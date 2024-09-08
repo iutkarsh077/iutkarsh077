@@ -76,3 +76,7 @@ I am Utkarsh Singh, a Software Engineer currently working for SoarX. Pursuing B.
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=iutkarsh077&theme=xcode"/>
+
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iutkarsh077=&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
