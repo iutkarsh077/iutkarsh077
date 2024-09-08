@@ -5,7 +5,7 @@
 I am Utkarsh Singh, a Software Engineer currently working for SoarX. Pursuing B.Tech in Computer Science Engineering.
 <img src="https://raw.githubusercontent.com/kintsugi-programmer/kintsugi-programmer/main/linux-computer.gif" alt="Linux Computer Meme" align="right">
 
-* 🌍  I'm based from Earth
+* 🌍  I'm from Earth
 * 🖥️  See my portfolio at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iutkarsh077.github.io/Portfolio/)
 * ✉️  You can contact me at [utkarshsingh132002@gmail.com](utkarshsingh132002@gmail.com)
 
