@@ -6,7 +6,7 @@ I am Utkarsh Singh, a Software Engineer worked for SoarX. Pursuing B.Tech in Com
 <img src="https://raw.githubusercontent.com/kintsugi-programmer/kintsugi-programmer/main/linux-computer.gif" alt="Linux Computer Meme" align="right">
 
 * 🌍  I write code for living
-* 🖥️  See my portfolio at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iutkarsh077.github.io/Portfolio/)
+* 🖥️  See my portfolio at [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://utkarsh-singh.vercel.app/)
 * ✉️  You can contact me at [utkarshsingh132002@gmail.com](utkarshsingh132002@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
