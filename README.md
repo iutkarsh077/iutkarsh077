@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
-<h3 align="center"> Software Engineer | Javascript Developer from India</h3>
+<h3 align="center">Homo sapiens who breathe oxygen</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iutkarsh077&label=Profile%20views&color=0e75b6&style=flat" alt="iutkarsh077" /> </p>
-I am Utkarsh Singh, a Software Engineer worked for SoarX. Pursuing B.Tech in Computer Science Engineering.
+I am Utkarsh Singh, Intern at SoarX(now merged with GiveMyCertificate). Pursuing B.Tech in Computer Science Engineering.
 <img src="https://raw.githubusercontent.com/kintsugi-programmer/kintsugi-programmer/main/linux-computer.gif" alt="Linux Computer Meme" align="right">
 
 * 🌍  I write code for living
