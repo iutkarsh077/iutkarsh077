@@ -2,7 +2,7 @@
 <h3 align="center">Homo sapiens who breathe oxygen</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iutkarsh077&label=Profile%20views&color=0e75b6&style=flat" alt="iutkarsh077" /> </p>
-I am Utkarsh Singh, Intern at SoarX(now merged with GiveMyCertificate). Pursuing B.Tech in Computer Science Engineering.
+I am Utkarsh Singh, a freelancer, Intern at SoarX(now merged with GiveMyCertificate) and Stammer. Pursuing B.Tech in Computer Science Engineering.
 <img src="https://raw.githubusercontent.com/kintsugi-programmer/kintsugi-programmer/main/linux-computer.gif" alt="Linux Computer Meme" align="right">
 
 * 🌍  I write code for living
