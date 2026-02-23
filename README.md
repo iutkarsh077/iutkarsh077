@@ -7,7 +7,7 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 - 🚀 I build products end-to-end — from ideation to development, architecture, and scaling.    
 - 👋 I've worked with technologies such as **NextJS**/**ReactJS**, **Prisma**, **NodeJS**, **AWS**.
-- 💞️ I’m currently learning and working with **Python** and **Django** .
+- 💞️ I’m currently learning and working with **Python** and **FastAPI** .
 - 🚀 My Tech Stack: NextJS, MERN, Redis, TypeScript, Tailwind, WebSockets.
 - ✨ Languages I work in : **JavaScript**/**TypeScript**, and **Python**.
 - 💞️ I have done 4 internships.
