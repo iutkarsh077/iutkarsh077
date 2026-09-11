@@ -16,7 +16,7 @@
 - My socials are listed below
   - X at [@iutkarsh077](https://x.com/iutkarsh077)
   - LinkedIn at [Utkarsh Singh](https://www.linkedin.com/in/utkarsh-singh-9467aa257/)
-  - Portfolio/Website at [Portfolio](https://utkrsh-singh.vercel.app/)
+  - Portfolio/Website at [Portfolio](https://utkarsh-human.vercel.app)
   - Mail me at [utkarshsingh132002@gmail.com](utkarshsingh132002@gmail.com) regarding any work or if you just wanna connect
   
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
