@@ -1,19 +1,27 @@
-<p>
-  <strong>Hi, I'm <em>Utkarsh Singh</em></strong>
-</p>
+# Hey, I'm Utkarsh👋
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+I'm a **Full-Stack Engineer at Phrontier AI**, building products end-to-end with **MERN, Next.js, and Agentic AI**.
 
-- 🚀 I build products end-to-end — from ideation to development, architecture, and scaling.
-- 💻 I work with **Next.js, React.js, Node.js, TypeScript, MongoDB, Prisma, Redis, and AWS**.
-- 🤖 I build AI-powered applications using **Python, FastAPI, OpenAI, LangChain, and LangGraph**.
-- 🧠 I work with **LLM Agents, RAG, Semantic Search, and Long-Term Memory**.
-- ✨ Languages I work with: **JavaScript, TypeScript, Python, and C++**.
-- 💼 I have around **2 years of experience** across internships and full-time product development.
+I like taking ideas from **0 → 1** and turning them into things people actually use.
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+### What I've worked on
+
+-  Built an **HRMS system at Phrontier AI** that was later acquired by a **US-based company**.
+-  Worked with developers from **Google and Intuit** at SoarX to launch a Python course that attracted **250+ students** and generated **₹28K+ in revenue**.
+-  Built and shipped an **AI-powered code review system** that processed **967 PRs for ~$3 in AI/API costs**.
+-  Built **Nourish**, an AI nutrition system that analyzes meal images and converts them into structured nutrition data using a vision model and AWS infrastructure.
+-  Built a **company discovery map** covering **5 major Indian tech hubs**, reaching **1,500+ real users**.
+-  Built and shipped multiple full-stack products around **developer collaboration, code sharing, AI workflows, and company discovery**.
+-  Worked with **Thinkact AI**, a US-based startup, to build a document management system for processing U.S. tax forms, including **Forms 1065 and 1120**.
 
 ### 🚀 Projects
+
+- 🤖 **Indian Startup Map**
+- A free, public discovery platform for companies across **Hyderabad, Bengaluru, Gurugram, Noida & Delhi, Pune, and Ahmedabad**, with interactive maps and directories to help people discover companies, hiring opportunities, and startup ecosystems.
+- Mapped **5,000+ companies** across 6 major Indian tech hubs
+- Reached **1,500+ real users**
+- [GitHub](https://github.com/iutkarsh077/hyderabadcompaniesmap)
+- [Live](https://hyderabadcompaniesmap.vercel.app/)  
 
 - 🤖 **GPT — AI Code Review Platform**
   - AI-powered platform that integrates with GitHub to analyze pull requests, identify bugs/risks, and suggest improvements.
