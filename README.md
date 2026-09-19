@@ -16,20 +16,22 @@ I like taking ideas from **0 → 1** and turning them into things people actuall
 
 ### 🚀 Projects
 
-- 🤖 **Indian Startup Map**
-- A free, public discovery platform for companies across **Hyderabad, Bengaluru, Gurugram, Noida & Delhi, Pune, and Ahmedabad**, with interactive maps and directories to help people discover companies, hiring opportunities, and startup ecosystems.
-- Mapped **5,000+ companies** across 6 major Indian tech hubs
-- Reached **1,500+ real users**
-- [GitHub](https://github.com/iutkarsh077/hyderabadcompaniesmap)
-- [Live](https://hyderabadcompaniesmap.vercel.app/)  
+- 🗺️ **Indian Startup Map**
+  - A free, public discovery platform for companies across **Hyderabad, Bengaluru, Gurugram, Noida & Delhi, Pune, and Ahmedabad**, with interactive maps and directories to help people discover companies, hiring opportunities, and startup ecosystems.
+  - Mapped **5,000+ companies** across 6 major Indian tech hubs
+  - Reached **1,500+ real users**
+  - [GitHub](https://github.com/iutkarsh077/hyderabadcompaniesmap)
+  - [Live](https://hyderabadcompaniesmap.vercel.app/)  
 
 - 🤖 **GPT — AI Code Review Platform**
   - AI-powered platform that integrates with GitHub to analyze pull requests, identify bugs/risks, and suggest improvements.
   - [GitHub](https://github.com/iutkarsh077/gpt)
+  - [Demo Video](https://youtu.be/O5aQqnTEZac?si=6w0sC7T6iBYnBbNp)
 
 - 💻 **Snippets — Developer Platform**
   - Developer platform with code snippets, community features, authentication, online editor, and real-time chat.
   - [GitHub](https://github.com/iutkarsh077/Snippets-SAAS-Production)
+  - [Live](https://snippets-saas-production.vercel.app/)
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
