@@ -25,8 +25,8 @@ I like taking ideas from **0 → 1** and turning them into things people actuall
 
 - 🤖 **GPT — AI Code Review Platform**
   - AI-powered platform that integrates with GitHub to analyze pull requests, identify bugs/risks, and suggest improvements.
-  - [GitHub](https://github.com/iutkarsh077/gpt)
-  - [Demo Video](https://youtu.be/O5aQqnTEZac?si=6w0sC7T6iBYnBbNp)
+  - [GitHub](https://github.com/iutkarsh077/pr-reviewer)
+  - [Live](https://pr-reviewer-cyan.vercel.app/)
 
 - 💻 **Snippets — Developer Platform**
   - Developer platform with code snippets, community features, authentication, online editor, and real-time chat.
