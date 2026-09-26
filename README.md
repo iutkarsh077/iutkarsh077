@@ -16,14 +16,21 @@ I like taking ideas from **0 → 1** and turning them into things people actuall
 
 ### 🚀 Projects
 
-- 🗺️ **Indian Startup Map**
+- 🗺️ **Altitude HR - Pool of Candidates**
+  - Built an Agentic AI & RAG pipeline autonomously parse resumes and rank top candidate matches with semantic precision.
+  - Worked on fault-tolerant workflow with a **3-stage retry mechanism**, preventing pipeline failures during S3
+uploads and vector embedding.
+  - [GitHub](https://github.com/iutkarsh077/altitude_hr)
+  - [Live](https://altitude-hr.vercel.app/)  
+
+- 🗺️ **Indian Startup Map - Discover company near you**
   - A free, public discovery platform for companies across **Hyderabad, Bengaluru, Gurugram, Noida & Delhi, Pune, and Ahmedabad**, with interactive maps and directories to help people discover companies, hiring opportunities, and startup ecosystems.
   - Mapped **5,000+ companies** across 6 major Indian tech hubs
   - Reached **1,500+ real users**
   - [GitHub](https://github.com/iutkarsh077/hyderabadcompaniesmap)
   - [Live](https://hyderabadcompaniesmap.vercel.app/)  
 
-- 🤖 **GPT — AI Code Review Platform**
+- 🤖 **DifflyPR — AI Code Review Platform**
   - AI-powered platform that integrates with GitHub to analyze pull requests, identify bugs/risks, and suggest improvements.
   - [GitHub](https://github.com/iutkarsh077/pr-reviewer)
   - [Live](https://pr-reviewer-cyan.vercel.app/)
