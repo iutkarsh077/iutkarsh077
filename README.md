@@ -16,12 +16,15 @@ I like taking ideas from **0 → 1** and turning them into things people actuall
 
 ### 🚀 Projects
 
-- 🗺️ **Altitude HR - Pool of Candidates**
-  - Built an Agentic AI & RAG pipeline autonomously parse resumes and rank top candidate matches with semantic precision.
-  - Worked on fault-tolerant workflow with a **3-stage retry mechanism**, preventing pipeline failures during S3
-uploads and vector embedding.
-  - [GitHub](https://github.com/iutkarsh077/altitude_hr)
-  - [Live](https://altitude-hr.vercel.app/)  
+- 🗺️ **Reconciliation**
+  - When developers open a Pull Request changes to a shared codebase, it instantly explains what
+changed, flags risks, and recommends improvements.
+  - Reduced pre-merge defect rates by 40% through structured LLM diff analysis detecting edge cases, security
+vulnerabilities, and breaking changes.
+  - Cut repository onboarding time by 95% (from 20 minutes of CI/CD scripting to 2 clicks) by building
+automated OAuth and HMAC SHA-256 webhook lifecycle handlers.
+  - [GitHub](https://github.com/iutkarsh077/Reconciliation)
+  - [Live](https://reconciliation-ruby.vercel.app/)  
 
 - 🗺️ **Indian Startup Map - Discover company near you**
   - A free, public discovery platform for companies across **Hyderabad, Bengaluru, Gurugram, Noida & Delhi, Pune, and Ahmedabad**, with interactive maps and directories to help people discover companies, hiring opportunities, and startup ecosystems.
