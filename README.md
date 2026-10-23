@@ -16,6 +16,18 @@ I like taking ideas from **0 → 1** and turning them into things people actuall
 
 ### 🚀 Projects
 
+- 🗺️ **Queue**
+  - I waited 30 minutes for chicken fried rice in a restaurant and could not leave the counter, because no signal
+    told me when my food was ready. That wait was dead time, and delivery apps would have added Rs. 80 to
+    Rs. 130 to the same meal.
+  - I built Queue to fix this: the owner creates an order and shows a QR code, the customer scans it, watches a live
+    wait timer, and taps "Notify me". The owner taps "Ready" once and a Web Push notification reaches the phone
+    even with the browser closed. I chose Web Push after comparing four channels because it costs nothing per
+    message, and the app collects no email address and no phone number.
+  - [GitHub](https://github.com/iutkarsh077/queue-crash)
+  - [Live](https://queue-crash.vercel.app/dashboard)
+  - [Demo](https://lnkd.in/p/gJxbnupE)  
+
 - 🗺️ **Reconciliation**
   - When developers open a Pull Request changes to a shared codebase, it instantly explains what
 changed, flags risks, and recommends improvements.
