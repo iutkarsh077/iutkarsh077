@@ -45,11 +45,6 @@ automated OAuth and HMAC SHA-256 webhook lifecycle handlers.
   - [GitHub](https://github.com/iutkarsh077/hyderabadcompaniesmap)
   - [Live](https://hyderabadcompaniesmap.vercel.app/)  
 
-- 🤖 **DifflyPR — AI Code Review Platform**
-  - AI-powered platform that integrates with GitHub to analyze pull requests, identify bugs/risks, and suggest improvements.
-  - [GitHub](https://github.com/iutkarsh077/pr-reviewer)
-  - [Live](https://pr-reviewer-cyan.vercel.app/)
-
 - 💻 **Snippets — Developer Platform**
   - Developer platform with code snippets, community features, authentication, online editor, and real-time chat.
   - [GitHub](https://github.com/iutkarsh077/Snippets-SAAS-Production)
